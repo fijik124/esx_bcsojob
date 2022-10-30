@@ -1,4 +1,4 @@
-# esx_policejob
+# esx_bcsojob
 
 This resource for ESX adds police armories, vehicle garages and ability for cops to search, handcuff people and much more.
 
